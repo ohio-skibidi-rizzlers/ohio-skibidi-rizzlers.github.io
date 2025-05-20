@@ -1,0 +1,70 @@
+#Title {
+    font-family:sans-serif;
+}
+
+
+#InfinityCube {
+    font-family:sans-serif;
+    border: 2px solid;
+    border-radius:2%;
+    width:400px;
+    height:700px;
+    text-align:center;
+    background-color:lightgreen;
+}
+
+#InfinityCube p:last-of-type {
+    font-size:50px;
+    position: relative;
+    top: -35px;
+}
+
+#InfinityCube img {
+    border-radius:10%;
+}
+
+
+
+
+#Switch {
+    font-family:sans-serif;
+    border: 2px solid;
+    border-radius:2%;
+    width:400px;
+    height:700px;
+    text-align:center;
+    background-color:lightblue;
+}
+
+#Switch p:last-of-type {
+    font-size:50px;
+    position: relative;
+    top: -35px;
+}
+
+#Switch img {
+    border-radius:10%;
+}
+
+
+
+
+#SeatBelt {
+    font-family:sans-serif;
+    border: 2px solid;
+    border-radius:2%;
+    width:400px;
+    height:700px;
+    text-align:center;
+    background-color:lightgoldenrodyellow;
+}
+
+#Seatbelt p:last-of-type {
+    font-size: 50px;
+    position: relative;
+    top: -35px;
+}
+
+#SeatBelt img {
+    border-radius:10%;
+}
